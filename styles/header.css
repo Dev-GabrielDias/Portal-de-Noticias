@@ -12,7 +12,7 @@
        justify-self: end;
     }
 }
-#secondary {
+#secundary {
     padding-block: 14px;
     border: solid 1px var(--stroke-color);
     border-inline: none;
